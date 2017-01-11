@@ -1,4 +1,4 @@
-Size 960x730
+Size 960x760
 
 PenColor D9F5FF
 BrushColor D9F5FF
@@ -31,3 +31,5 @@ PenColor 993211
 TextOut Arial, 12, 62, 650, Ma On Shan line, 1
 PenColor A6238D
 TextOut Arial, 12, 62, 665, West Rail, 1
+PenColor C1CD23
+TextOut Arial, 12, 62, 680, South Island Line, 1
